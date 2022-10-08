@@ -1,9 +1,10 @@
 import './App.css';
+import Header from './Layouts/Header';
 
 function App() {
   return (
     <>
-      Hi We're cloning neon Attack website.
+      <Header/>
     </>
   );
 }
